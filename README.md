@@ -3,5 +3,5 @@ webpack常用配置，采用npm6托管，集成webpack@4.32.2，webpack-cli@3.3.
 
 ### 初始化
 ####  npm i
-### 热更新模式
+### 启动（热更新模式）
 ####  npm run dev
